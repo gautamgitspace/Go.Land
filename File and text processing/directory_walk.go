@@ -1,3 +1,4 @@
+//list contents of a directory using GoLang
 package main
 import (
   "os"
